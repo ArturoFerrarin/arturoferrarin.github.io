@@ -23,7 +23,7 @@ Per le specifiche caratteristiche esposte e per il prestigio di cui gode, il "Fe
 
 ## Who was Arturo Ferrarin
 
-<img class="roundrect" src="img/in-post/post-js-version/Ferrarin-Tokio.jpg">
+<img class="roundrect" src="/img/in-post/post-js-version/Ferrarin-Tokio.jpg">
 
 **Arturo Ferrarin** nasce a Thiene, in provincia di Vicenza, il 13 febbraio 1895 da Antonio e Maria Ciscato, famiglia di industriali tessili. Sesto di sette fratelli, è stato un aviatore italiano.
 
