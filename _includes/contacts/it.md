@@ -3,39 +3,39 @@
 > Ogni pagina è solo una bozza, ed è completamente modificabile in formato markdown
 
 
-##Numeri utili
+## Numeri utili
 
-**Dirigente Scolastico:**\
-Telefono: 095 6136426\
+**Dirigente Scolastico:**
+Telefono: 095 6136426
 email: <preside@itaerferrarin.gov.it>
 
-**Primo Collaboratore del DS:**\
-Telefono: 095 6136427\
+**Primo Collaboratore del DS:**
+Telefono: 095 6136427
 e-mail: <giovanni.napoli@itaerferrarin.gov.it>
 
-**Uffici Amministrativi:**\
-Telefono: 095 6136430\
-Fax: 005 6136429\
-e-mail certificata: <cttb01000a@pec.istruzione.it>\
+**Uffici Amministrativi:**
+Telefono: 095 6136430
+Fax: 005 6136429
+e-mail certificata: <cttb01000a@pec.istruzione.it>
 e-mail istituzionale: <cttb01000a@istruzione.it>
 
-**Direttore dei Servizi Amministrativi:**\
-Telefono: 095 6136428\
+**Direttore dei Servizi Amministrativi:**
+Telefono: 095 6136428
 e-mail:<dsga@itaerferrarin.gov.it>
 
-**Ufficio Tecnico:**\
+**Ufficio Tecnico:**
 e-mail: <fabio.papale@itaerferrarin.gov.it>
 
-**Ufficio Gestione del personale:**\
+**Ufficio Gestione del personale:**
 e-mail: <annamaria.privitera@itaerferrarin.gov.it>
 
-**Ufficio Alunni**\
+**Ufficio Alunni**
 e-mail: <ethel.vullo@itaerferrarin.gov.it>
 
-**Ufficio Gestione del sito web**\
+**Ufficio Gestione del sito web**
 e-mail: <annalisa.baeri@itaerferrarin.gov.it>
 
-##Dove trovarci
+## Dove trovarci
 
 L'Istituto si trova in via Galermo, 172 a Catania, zona Circonvallazione Nord.
 
@@ -43,11 +43,15 @@ E' raggiungibile a nord dalla Messina-Catania, uscita Centro, poi Catania Est. D
 
 Da est, prendere SS121 Adrano-Paternò-Catania, uscire Misterbianco, poi Circonvallazione direzione Catania Ognina.
 
-##Come raggiungerci
+[![mappa](https://www.itaerferrarin.gov.it/pasw4/images/mappa.png)](https://goo.gl/maps/Pv4cyZNizoN2) 
+
+**Clicca sulla mappa per accedere a Google Maps**
+
+## Come raggiungerci
 
 Il trasporto pubblico della città di Catania permette un veloce raggiungimento della sede del nostro Istituto, tramite bus:
 
-| ** linea autobus** | **partenza da:** |
+| **Linea autobus** | **Partenza da:** |
 | **449** | **Stazione Centrale** |
 | **556** | **Piazza Falcone Borsellino** |
 | **726** | **Piazza della Borsa (piazza Stesicoro)** |
