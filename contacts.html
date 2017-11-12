@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "About"
-description: "Avation school of Catania"
-header-img: "img/about-bg.jpg"
+title: "Contacts"
+description: "Infos you may need"
+header-img: "img/contacts-bg.jpg"
 multilingual: true
 ---
 
@@ -17,14 +17,14 @@ multilingual: true
 
 <!-- Italian Version -->
 <div class="it post-container">
-	{% capture about_it %}{% include about/it.md %}{% endcapture %}
-	{{ about_it | markdownify }}
+	{% capture contacts_it %}{% include contacts/it.md %}{% endcapture %}
+	{{ contacts_it | markdownify }}
 </div>
 
 <!-- English Version -->
 <div class="en post-container">
-	{% capture about_en %}{% include about/en.md %}{% endcapture %}
-	{{ about_en | markdownify }}
+	{% capture contacts_en %}{% include contacts/en.md %}{% endcapture %}
+	{{ contacts_en | markdownify }}
 </div>
 
 {% if site.disqus_username %}

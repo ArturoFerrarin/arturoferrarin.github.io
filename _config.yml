@@ -1,21 +1,21 @@
 # Site settings
-title: Ivan's Git
-SEOTitle: Ivan | Git
+title: Arturo Ferrarin's Git
+SEOTitle: ITAER "A. Ferrarin"
 header-img: img/home-bg.jpg
 email: ivancristina5@gmail.com
-description: "Private Pilot Student, nerd. Build ROMs on free time"
-keyword: "ivan, ivanc, ivancristina, IvanCristina, @ivancristina"
-url: "https://ivancristina.github.io/" # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+description: "Technical Aeronautical Institute of Catania, Sicily"
+keyword: "itaer, ferrarin, aeronautico, Catania, Sicily"
+url: "https://arturoferrarin.github.io/" # your host, for absolute URL
+baseurl: ""                              # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-github_username:    ivancristina
-twitter_username:   ivan_cristin
-instagram_username: ivancristina5
-telegram_username:  IvanCristina
+github_username:    arturoferrarin
+twitter_username:   arturoferrarin
+instagram_username: arturoferrarin
+telegram_username:  arturoferrarin
 xda_username:       IvanCristina
 xda_member_id:      6243385
 #facebook_username: ivancristina
@@ -66,7 +66,7 @@ ga_domain: ivancristina.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "A 17 years old italian nerd. Not a big deal"
+sidebar-about-description: "Technical Aeronautical Institute of Catania, Sicily"
 sidebar-avatar: /img/avatar-ivan.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -80,7 +80,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Me",
+        title: "Ivan",
         href: "https://github.com/ivancristina"
     },{
         title: "Bruno",
@@ -92,7 +92,7 @@ friends: [
         title: "Viatcheslav",
         href: "https://github.com/olooikea"
     },{
-        title: "I have no others friends. I'm a sad person",
+        title: "Da aggiungere",
         href: "#"
     }
 ]
