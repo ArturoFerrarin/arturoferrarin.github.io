@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "Online!"
+subtitle:   "New Arturo Ferrarin's Github.io"
+date:       2017-11-12
+author:     "Ivan"
+header-img: "img/post-bg-online.jpg"
+header-mask:  0.3
+catalog:      false
+multilingual: true
+tags:
+    - Online
+    - Github
+    - Ferrarin
+---
+
+<!-- Italian Version -->
+<div class="it post-container">
+    {% capture online_it %}{% include posts/2017-11-12-Online/it.md %}{% endcapture %}
+    {{ online_it | markdownify }}
+</div>
+
+<!-- English Version -->
+<div class="en post-container">
+    {% capture online_en %}{% include posts/2017-11-12-Online/en.md %}{% endcapture %}
+    {{ online_en | markdownify }}
+</div>

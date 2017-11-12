@@ -1,5 +1,5 @@
 # Site settings
-title: Arturo Ferrarin's Git
+title: Arturo Ferrarin
 SEOTitle: ITAER "A. Ferrarin"
 header-img: img/home-bg.jpg
 email: ivancristina5@gmail.com
@@ -13,12 +13,15 @@ baseurl: ""                              # for example, '/blog' if your blog hos
 # SNS settings
 RSS: false
 github_username:    arturoferrarin
-twitter_username:   arturoferrarin
-instagram_username: arturoferrarin
-telegram_username:  arturoferrarin
-xda_username:       IvanCristina
-xda_member_id:      6243385
-#facebook_username: ivancristina
+omnia_id:			CTTB01000A
+maps_shorturl:		A41CsABDVPk
+#twitter_username:  arturoferrarin
+#instagram_username:arturoferrarin
+#telegram_username: arturoferrarin
+#xda_username:      IvanCristina
+#xda_member_id:     6243385
+#facebook_username: arturoferrarin
+facebook_page: 		Istituto-Tecnico-Aeronautico-A-Ferrarin/110171519012054
 
 
 

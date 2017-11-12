@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Contacts"
-description: "Infos you may need"
-header-img: "img/contacts-bg.jpg"
+title: "Info"
+description: "Links and contacts you may need"
+header-img: "img/info-bg.jpg"
 multilingual: true
 ---
 
@@ -17,14 +17,14 @@ multilingual: true
 
 <!-- Italian Version -->
 <div class="it post-container">
-	{% capture contacts_it %}{% include contacts/it.md %}{% endcapture %}
-	{{ contacts_it | markdownify }}
+	{% capture info_it %}{% include info/it.md %}{% endcapture %}
+	{{ info_it | markdownify }}
 </div>
 
 <!-- English Version -->
 <div class="en post-container">
-	{% capture contacts_en %}{% include contacts/en.md %}{% endcapture %}
-	{{ contacts_en | markdownify }}
+	{% capture info_en %}{% include info/en.md %}{% endcapture %}
+	{{ info_en | markdownify }}
 </div>
 
 {% if site.disqus_username %}

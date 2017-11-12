@@ -6,12 +6,13 @@ date:       2017-06-05
 author:     "Ivan"
 header-img: "img/post-bg-intercultura.jpg"
 header-mask:  0.3
-catalog:      true
+catalog:      false
 multilingual: true
 tags:
     - Italy
     - Serbia
     - Intercultura
+    - Ferrarin
 ---
 
 <!-- Italian Version -->
