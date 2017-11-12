@@ -1,6 +1,6 @@
 
 
-> Ogni pagina è completamente modificabile in formato markdown
+> Ogni pagina è solo una bozza, ed è completamente modificabile in formato markdown
 
 
 L'istituto "**Arturo Ferrarin**" è stato fondato nel 1968 e, insieme a quello di Roma e di Forlì, forma il nucleo storico degli Istituti Tecnici Aeronautici Statali italiani.
