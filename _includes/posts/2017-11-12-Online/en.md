@@ -22,3 +22,5 @@ The projects you may add are a lot. From simple newspaper articles to entire app
 ### How to navigate?
 
 Pretty easy. Click where you want to do, done.
+
+Moreover in the top right there's a three-lines button. Click it to see all the primary menus.

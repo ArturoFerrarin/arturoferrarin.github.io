@@ -3,7 +3,7 @@ E... Siamo online!
 # Finalmente è fatta
 
 Dopo TANTE ore di coding, sono finalmente riuscito a rendere online questo sito. Un grande ringraziamento va a <a href="https://github.com/Huxpro">Hux</a> per il suo ottimo boilerplate. 
-In ogni caso, questa è solo una bozza non ufficiale di un possibile Github.i o dell'Istituto Tecnico Aeronatico "Arturo Ferrarin".
+In ogni caso, questa è solo una bozza non ufficiale di un possibile Github.io dell'Istituto Tecnico Aeronatico "Arturo Ferrarin".
 
 Questo sito riporta alcune pagine del sito ufficiale della scuola, ma non vuole essere assolutamente un plagio. In caso di problemi di ogni tipo, non esiterò a rimuovere l'intero sito da Github Pages.
 
@@ -24,3 +24,5 @@ I progetti da poter aggiungere sono molti. Da semplici articoli giornalistici ad
 ### Come navigare?
 
 Abbastanza semplice. Clicca ovunque tu voglia andare, fatto.
+
+Inoltre, sui dispositivi mobili è presente in alto a destra un tasto. Cliccandolo potrete accedere ai menu principali
